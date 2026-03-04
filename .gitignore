@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Data
+data/raw/
+data/processed/
+
+# Build
+build/
+dist/
+*.egg-info/
