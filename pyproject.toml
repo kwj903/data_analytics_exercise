@@ -3,9 +3,21 @@ name = "data-analyics-exercise"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10,<3.13"
 dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "bs4>=0.0.2",
+    "folium>=0.20.0",
     "ipykernel>=7.2.0",
     "jupyterlab>=4.5.5",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
     "notebook>=7.5.4",
+    "numpy>=2.4.2",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "pyarrow>=23.0.1",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
 ]
